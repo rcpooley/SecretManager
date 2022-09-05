@@ -1,0 +1,4 @@
+{
+  "secret": "{CFG2_SECRET}",
+  "notsecret": "not a secret"
+}

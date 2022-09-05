@@ -1,0 +1,4 @@
+{
+  "secret": "s1_secret",
+  "notsecret": "not a secret"
+}

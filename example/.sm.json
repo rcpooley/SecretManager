@@ -1,0 +1,17 @@
+{
+  "replacements": [
+    {
+      "source": "configs1",
+      "targets": [
+        {
+          "secret": "secrets/s1.json",
+          "out": "generated/s1"
+        },
+        {
+          "secret": "secrets/s2.json",
+          "out": "generated/s2"
+        }
+      ]
+    }
+  ]
+}
